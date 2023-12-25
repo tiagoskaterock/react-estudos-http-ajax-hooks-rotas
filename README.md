@@ -3,7 +3,7 @@
 <p align="center">In the project directory, you can run:</p>
 
 <p align="center"><i>npm install</i></p>
-
+<p align="center"><i>npm update</i></p>
 <p align="center"><i>npm start</i></p>
 
 <p align="center">
