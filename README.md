@@ -1,17 +1,15 @@
-# React com Http
+<h1 align="center">React App Using Ajax and HTTP Methods</h1>
 
-Projeto em React com exemplo de requisições HTTP com Fecth API.
+<p align="center">In the project directory, you can run:</p>
 
-## Instalar dependencias
+<p align="center"><i>npm install</i></p>
 
-```sh
-npm install
-```
+<p align="center"><i>npm start</i></p>
 
-## Executar Aplicação
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react" alt="Dev icons" />
+</p>
 
-```sh
-npm start
-```
-
-Então abra [http://localhost:3000/](http://localhost:3000/) para ver a Aplicação.
+<p align="center">
+  <img src="1.png" alt="React App" />
+</p>
