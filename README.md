@@ -10,6 +10,8 @@
 
 Bem-vindo ao meu projeto de estudos em React focado nos métodos HTTP de API REST e nas requisições AJAX. Este projeto é uma exploração aprofundada dessas técnicas fundamentais no desenvolvimento web moderno.
 
+
+
 ## Objetivo do Projeto 🎯
 
 O objetivo principal é compreender e aplicar de maneira prática os métodos HTTP (GET, POST, PUT, DELETE) para interação com uma API REST, além de explorar o uso de requisições AJAX para atualizar dinamicamente o conteúdo da aplicação.
