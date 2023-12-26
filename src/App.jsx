@@ -1,25 +1,47 @@
 import React from 'react';
 import './App.css';
+import { BrowserRouter as Router, NavLink, Routes, Route } from 'react-router-dom'
 
 import Usuarios from './components/Usuarios/Usuarios'
+import Home from './components/Home/Home'
+import AdicionarUsuario from './components/AdicionarUsuario/AdicionarUsuario'
+import PaginaNaoEncontrada from './components/PaginaNaoEncontrada'
 
 function App() {
   return (
-    <div className="App">
-      <header>
-        <nav>
-          <ul>
-            <li><a className="active" href="/">Início</a></li>
-            <li><a href="/usuarios">Usuários Cadastrados</a></li>
-            <li><a href="/usuarios/cadastrar">Cadastrar Usuário</a></li>
-          </ul>
-        </nav>
-      </header>
+    <Router>
+      <div className="App">
+        <header>
+          <nav>
+            <ul>
 
-      <main>
-        <Usuarios />
-      </main>
-    </div>
+              <li>
+                <NavLink to="/">Início</NavLink>
+              </li>
+
+              <li>
+                <NavLink to="/usuarios">Usuários</NavLink>
+              </li>
+
+              <li>
+                <NavLink to="/usuarios-cadastrar">Cadastrar</NavLink>
+              </li>
+
+            </ul>
+          </nav>
+        </header>
+
+        <main>
+          <Routes>
+            <Route path="/" element={<Home />} />            
+            <Route path="/usuarios" element={<Usuarios />} />            
+            <Route path="/usuarios-cadastrar" element={<AdicionarUsuario />} />            
+            <Route path="*" element={<PaginaNaoEncontrada />} />            
+          </Routes>
+          
+        </main>
+      </div>
+    </Router>
   );
 }
 
