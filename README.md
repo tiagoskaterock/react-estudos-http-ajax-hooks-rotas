@@ -10,6 +10,10 @@
 
 Bem-vindo ao meu projeto de estudos em React focado nos métodos HTTP de API REST e nas requisições AJAX. Este projeto é uma exploração aprofundada dessas técnicas fundamentais no desenvolvimento web moderno.
 
+<p align="center">
+  <img src="3.gif" alt="React App" />
+</p>
+
 
 
 ## Objetivo do Projeto 🎯
