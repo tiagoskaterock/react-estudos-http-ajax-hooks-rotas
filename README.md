@@ -20,6 +20,10 @@ O objetivo principal é compreender e aplicar de maneira prática os métodos HT
 - **JavaScript (ES6+):** Linguagem base para o desenvolvimento.
 - **HTML/CSS:** Estruturação e estilização da aplicação.
 
+<p align="center">
+  <img src="2.gif" alt="React App" />
+</p>
+
 ## Funcionalidades Implementadas ✨
 
 - **Métodos HTTP:** Implementação de operações CRUD utilizando GET, POST, PUT e DELETE.
