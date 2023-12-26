@@ -43,5 +43,5 @@ Vamos juntos explorar e compreender melhor os métodos HTTP e as requisições A
 
 
 <p align="center">
-  <img src="1.png" alt="React App" />
+  <img src="1.gif" alt="React App" />
 </p>
