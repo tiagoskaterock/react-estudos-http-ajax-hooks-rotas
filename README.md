@@ -26,6 +26,7 @@ O objetivo principal é compreender e aplicar de maneira prática os métodos HT
 
 - **Métodos HTTP:** Implementação de operações CRUD utilizando GET, POST, PUT e DELETE.
 - **Requisições Assíncronas:** Uso de AJAX para atualizações dinâmicas de dados.
+- **Uso de Hooks como UseState e UseEffect :** Manipulação do DOM.
 - **Exibição de Dados:** Renderização de informações provenientes da API REST.
 
 ## Como Usar o Projeto 🛠️💻
