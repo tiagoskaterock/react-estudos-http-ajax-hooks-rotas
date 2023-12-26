@@ -4,7 +4,7 @@
   <img src="https://skillicons.dev/icons?i=react" alt="Dev icons" />
 </p>
 
-# Projeto de Estudos React: Explorando Métodos HTTP e Requisições AJAX 📚🌐
+# Projeto de Estudos React: Explorando Métodos HTTP, Requisições AJAX, Hooks e Rotas 📚🌐
 
 ## Visão Geral 🚀
 
@@ -16,9 +16,7 @@ O objetivo principal é compreender e aplicar de maneira prática os métodos HT
 
 ## Tecnologias Utilizadas 🛠️
 
-- **React:** Framework principal para o desenvolvimento da interface.
-- **Axios:** Biblioteca para realizar requisições HTTP na aplicação React.
-- **API Mock:** Utilização de uma API simulada para prática dos métodos HTTP.
+- **React:** Bliblioteca principal para o desenvolvimento da interface.
 - **JavaScript (ES6+):** Linguagem base para o desenvolvimento.
 - **HTML/CSS:** Estruturação e estilização da aplicação.
 
@@ -27,6 +25,7 @@ O objetivo principal é compreender e aplicar de maneira prática os métodos HT
 - **Métodos HTTP:** Implementação de operações CRUD utilizando GET, POST, PUT e DELETE.
 - **Requisições Assíncronas:** Uso de AJAX para atualizações dinâmicas de dados.
 - **Uso de Hooks como UseState e UseEffect :** Manipulação do DOM.
+- **Rotas:** Usando rotas em uma SPA.
 - **Exibição de Dados:** Renderização de informações provenientes da API REST.
 
 ## Como Usar o Projeto 🛠️💻
@@ -40,7 +39,7 @@ O objetivo principal é compreender e aplicar de maneira prática os métodos HT
 
 Este projeto é uma jornada de aprendizado contínuo. Sinta-se à vontade para contribuir com melhorias, correções ou sugestões. Seu feedback é valioso para o aprimoramento deste estudo.
 
-Vamos juntos explorar e compreender melhor os métodos HTTP e as requisições AJAX no mundo React! 🌐🚀✨
+Vamos juntos explorar e compreender melhor as possibilidades de desenvolvimento no mundo React! 🌐🚀✨
 
 
 <p align="center">

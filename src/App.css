@@ -1,4 +1,4 @@
-.App {
+.App main {
   text-align: center;
 }
 
@@ -36,3 +36,35 @@
     transform: rotate(360deg);
   }
 }
+
+.App nav {
+  padding: 20px 0;
+  background-color: #ffebf3;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, .14);
+}
+
+.App nav ul {
+  list-style: none;
+  margin: 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  gap: 1.5rem;
+}
+
+.App nav ul li {
+  display: block;
+}
+
+.App nav ul li a {
+  display: block;
+  padding: 1rem;
+  color: #da3c78;
+  text-decoration: none;
+}
+
+.App nav ul li a:hover, .App nav ul li a.active {
+  background-color: #DA3C78;
+  color: white;
+}
+
